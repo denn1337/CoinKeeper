@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/home_Fragment">
+
+    <fragment
+        android:id="@+id/home_Fragment"
+        android:name="com.example.coinkeeperdemo.Home_Fragment"
+        android:label="@string/home_menu_title"
+        tools:layout="@layout/fragment_home_" />
+    <fragment
+        android:id="@+id/stat_Fragment"
+        android:name="com.example.coinkeeperdemo.Stat_Fragment"
+        android:label="@string/stat_menu_title"
+        tools:layout="@layout/fragment_stat_" />
+    <fragment
+        android:id="@+id/info_Fragment"
+        android:name="com.example.coinkeeperdemo.Info_Grahment"
+        android:label="@string/info_menu_title"
+        tools:layout="@layout/fragment_info__grahment" />
+</navigation>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stat_Fragment"
+        android:title="@string/stat_menu_title"
+        android:icon="@drawable/ic_assessment"
+        android:orderInCategory="100"/>
+    <item
+        android:id="@+id/home_Fragment"
+        android:title="@string/home_menu_title"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="200"/>
+
+    <item
+        android:id="@+id/info_Fragment"
+        android:title="@string/info_menu_title"
+        android:icon="@drawable/ic_info"
+        android:orderInCategory="300"/>
+</menu>
