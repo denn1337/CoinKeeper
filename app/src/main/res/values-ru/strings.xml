@@ -6,4 +6,5 @@
     <string name="info_menu_title">Информация</string>
     <string name="switch_add">Доход</string>
     <string name="switch_expenses">Расход</string>
+    <string name="hint_money">0р.</string>
 </resources>

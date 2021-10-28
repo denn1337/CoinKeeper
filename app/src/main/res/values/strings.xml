@@ -6,4 +6,5 @@
     <string name="info_menu_title">Information</string>
     <string name="switch_add">Add</string>
     <string name="switch_expenses">Expenses</string>
+    <string name="hint_money">0$</string>
 </resources>

@@ -3,11 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/drawable/ic_add.xml" value="0.5615384615384615" />
         <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_add_fragment.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_expenses_.xml" value="0.5" />
         <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_home_.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_item.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_item_list.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/User/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/menu/bottom_menu.xml" value="0.5541666666666667" />
-        <entry key="..\:/Users/denn033/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/denn033/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_home_.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/denn033/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/activity_main.xml" value="0.24791666666666667" />
+        <entry key="..\:/Users/denn033/AndroidStudioProjects/CoinKeeperDemo/app/src/main/res/layout/fragment_home_.xml" value="0.24791666666666667" />
       </map>
     </option>
   </component>
